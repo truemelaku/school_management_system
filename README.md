@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     SCHOOL MANAGEMENT SYSTEM
 </h1>
@@ -190,3 +191,7 @@ Don't forget to leave a star for this project if you found the solution helpful.
 * Render - server side
 * Netlify - client side
 
+=======
+# school_management_system
+this is school management system
+>>>>>>> 7f54d005b70a282ee78648a8b551e9ed49329668
