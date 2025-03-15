@@ -9,10 +9,6 @@ Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
 
-<br>
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
 
 # About
 
@@ -43,7 +39,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone [https://github.com/truemelaku/school_management_system.git]
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -194,4 +190,4 @@ Don't forget to leave a star for this project if you found the solution helpful.
 =======
 # school_management_system
 this is school management system
->>>>>>> 7f54d005b70a282ee78648a8b551e9ed49329668
+
